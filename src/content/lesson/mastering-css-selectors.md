@@ -7,7 +7,7 @@ date: "2020-10-19T16:36:31+00:00"
 tags: ["CSS", "CSS Selectors", ]
 status: "published"
 
----
+---asdasd
 
 ## Why Do We Need to Learn About Selectors?
 
